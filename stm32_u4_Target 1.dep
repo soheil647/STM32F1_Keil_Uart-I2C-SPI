@@ -1,0 +1,10 @@
+Dependencies for Project 'stm32_u4', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5D52FE93)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\ssa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\ssa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Users\ssa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x582569A4)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5DDFACB2)
+I (C:\Users\ssa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F7F0C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBB92A)
+I (C:\Users\ssa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97457C)
+I (C:\Users\ssa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F7F0C)
+I (C:\Users\ssa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F7F0C)
+I (C:\Users\ssa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x582569A4)
